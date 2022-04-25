@@ -1,6 +1,6 @@
 # angularDocs
 
-<h1>Basical commande :</h1>
+<h1>Basic commands :</h1>
 
 ><code>ng new</code> - To create an application that already works, right out of the box. <br/>
 ><code>ng generate</code> - To Generate components, routes, services and pipes with a simple command with test shells. <br/>
