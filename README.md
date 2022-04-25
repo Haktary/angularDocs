@@ -13,5 +13,8 @@
 
 For example <code>consultation.component.ts</code> or <code>home.component.html</code> or <code>auth.service.ts</code> <br/>
 
+<h2>Folder Structure</h2>
+
+![alt text](https://blogs.halodoc.io/content/images/2021/03/Screenshot-2021-03-30-at-9.15.26-PM.png)
 
 
