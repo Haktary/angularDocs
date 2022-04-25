@@ -18,3 +18,10 @@ For example <code>consultation.component.ts</code> or <code>home.component.html<
 ![alt text](https://blogs.halodoc.io/content/images/2021/03/Screenshot-2021-03-30-at-9.15.26-PM.png)
 
 
+<h2>Breaking down Components</h2>
+
+This might be an extension of the single responsibility principle not just to the code files or the methods, but to components as well. The larger the component is, the harder it becomes to debug, maintain and test. <br/>
+
+![alt text](https://blogs.halodoc.io/content/images/2021/03/image-22.png)
+
+
