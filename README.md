@@ -2,8 +2,8 @@
 
 <h1>Basical commande :</h1>
 
-><code>ng new</code> - To create an application that already works, right out of the box.
-><code>ng generate</code> - To Generate components, routes, services and pipes with a simple command with test shells.
+><code>ng new</code> - To create an application that already works, right out of the box. \n
+><code>ng generate</code> - To Generate components, routes, services and pipes with a simple command with test shells. \n
 ><code>ng serve</code> - To test your app locally while developing.
 ><code>ng test</code> - To run your unit tests or end-to-end tests
 ><code>ng lint</code> - To make your code shine
